@@ -1,7 +1,7 @@
 
-# 🧠 LuaLite-Compiler
+# 🧠 Lua-Compiler
 
-**LuaLite-Compiler** is a simple compiler project built during university coursework. It implements a custom compiler that parses a restricted subset of the Lua programming language and generates equivalent **x86 assembly code**. This educational project showcases core concepts of **lexical analysis**, **parsing**, **semantic evaluation**, and **code generation**.
+**Lua-Compiler** is a simple compiler project built during university coursework. It implements a custom compiler that parses a restricted subset of the Lua programming language and generates equivalent **x86 assembly code**. This educational project showcases core concepts of **lexical analysis**, **parsing**, **semantic evaluation**, and **code generation**.
 
 ---
 
