@@ -67,8 +67,3 @@ print(z .. x)
 - Designed for educational purposes only.
 
 ---
-
-## 👨‍💻 Author
-
-Developed as part of a university project on compilers and language processing.  
-Feel free to fork, modify, and contribute!
